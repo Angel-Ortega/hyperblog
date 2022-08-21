@@ -25,3 +25,20 @@
     color: white;
     margin: 0;
   }
+#container {
+  width: 70%;
+  height: 50%;
+  border: 2px solid rgb(13, 13, 14);
+  margin: auto;
+}
+
+footer {
+  width: 100%;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  color: azure;
+  background: rgb(3, 3, 3);
+
+}
+
+  
